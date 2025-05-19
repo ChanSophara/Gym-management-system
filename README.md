@@ -1,1 +1,20 @@
-This is a Gym management System to it was create to improve the efficientcy of tracking member who rigister for a gym club and track payment and membership plan.
+# 🏋️‍♂️ Gym Management System
+
+## 📘 Project Overview
+Full-stack application for managing gym memberships and operations.
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+- XAMPP (PHP DB)
+
+## ✨ Features
+- Member management
+- Real-time updates and printable reports
+- User-friendly UI
+
+---
+🔗 Check it out on GitHub and explore the project in action!
